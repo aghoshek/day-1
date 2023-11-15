@@ -120,3 +120,7 @@ border-radius: 15px;
 {
   flex-basis: 35%;
 }
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
